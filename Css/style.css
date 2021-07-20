@@ -1,0 +1,16 @@
+.carousel-end{
+    color: rgb(173, 11, 11);
+    font-weight: 600;
+    margin-top: 15px;
+    text-align: center; 
+}
+span{
+    color: rgba(173, 155, 155, 0.856);
+}
+.con-end{
+    background-color: red;
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
